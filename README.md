@@ -15,6 +15,17 @@ flowchart LR
     A -->|UUID connu| P[predict]
     M -->|chargé une fois au démarrage| P
     P --> J[200 espèce + confiance]
+
+    classDef input fill:#2563eb,stroke:#1e3a8a,color:#fff
+    classDef process fill:#7c3aed,stroke:#4c1d95,color:#fff
+    classDef store fill:#f59e0b,stroke:#92400e,color:#111
+    classDef ok fill:#16a34a,stroke:#14532d,color:#fff
+    classDef error fill:#dc2626,stroke:#7f1d1d,color:#fff
+    class C,T input
+    class A,P process
+    class M,U store
+    class J ok
+    class R error
 ```
 
 | Fichier | Étape | Rôle |
