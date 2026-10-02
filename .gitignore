@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Modele : regenere par train_model.py, jamais versionne
+*.joblib
+
+# Secrets, defense en profondeur
+.env
+.env.*
+*secret*
+*.token
+*.pem
+ghp_*
+github_pat_*
+sbp_*
