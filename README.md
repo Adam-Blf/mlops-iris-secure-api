@@ -1,5 +1,13 @@
 # Iris API sécurisée
 
+<!-- adam-badges:start -->
+[![commits](https://img.shields.io/github/commit-activity/t/Adam-Blf/mlops-iris-secure-api?color=001329&label=commits&style=flat-square)](https://github.com/Adam-Blf/mlops-iris-secure-api/commits)
+[![visites](https://hits.sh/github.com/Adam-Blf/mlops-iris-secure-api.svg?style=flat-square&label=visites&color=001329)](https://hits.sh/github.com/Adam-Blf/mlops-iris-secure-api/)
+[![last commit](https://img.shields.io/github/last-commit/Adam-Blf/mlops-iris-secure-api?color=D4A437&style=flat-square&label=dernier%20push)](https://github.com/Adam-Blf/mlops-iris-secure-api/commits)
+[![top language](https://img.shields.io/github/languages/top/Adam-Blf/mlops-iris-secure-api?style=flat-square)](https://github.com/Adam-Blf/mlops-iris-secure-api)
+[![license](https://img.shields.io/github/license/Adam-Blf/mlops-iris-secure-api?style=flat-square&color=D4A437)](LICENSE)
+<!-- adam-badges:end -->
+
 ![version](https://img.shields.io/badge/version-1.0.0-blue) ![python](https://img.shields.io/badge/python-3.12-3776AB) ![fastapi](https://img.shields.io/badge/FastAPI-0.115-009688) ![tests](https://img.shields.io/badge/tests-9%20passed-brightgreen)
 
 Exercice 5 des révisions S3 du module MLOps (M2 Data Engineering et IA, EFREI) : packager un modèle dans un web service et le protéger par identifiant. Le code est commenté ligne par ligne, et chaque fichier correspond à une étape de l'énoncé.
